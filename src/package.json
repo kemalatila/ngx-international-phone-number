@@ -3,7 +3,7 @@
   "version": "1.0.2",
   "repository": {
     "type": "git",
-    "url": "https://github.com/nikhiln/ngx-international-phone-number"
+    "url": "https://github.com/kemalatila/ngx-international-phone-number"
   },
   "author": {
     "name": "Nikhil Navadiya",
@@ -14,7 +14,7 @@
   ],
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/nikhiln/ngx-international-phone-number/issues"
+    "url": "https://github.com/kemalatila/ngx-international-phone-number/issues"
   },
   "main": "ngx-international-phone-number.umd.js",
   "module": "index.js",

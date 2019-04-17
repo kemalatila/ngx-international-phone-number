@@ -5,12 +5,14 @@ import { PhoneNumberComponent } from './phone-number.component';
 import { OnlyNumberDirective } from './only-number.directive';
 import { CountryPipe } from './country.pipe';
 import { CountryService } from './country.service';
+import { NgxMaskModule } from 'ngx-mask';
 
 @NgModule({
     imports: [
         CommonModule,
         FormsModule,
-        ReactiveFormsModule
+        ReactiveFormsModule,
+        NgxMaskModule.forRoot(),
     ],
     declarations: [
         PhoneNumberComponent,
